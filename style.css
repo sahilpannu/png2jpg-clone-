@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #converter-form {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  #output {
+    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
+  }
+  
